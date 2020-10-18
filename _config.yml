@@ -1,0 +1,23 @@
+---
+title: Blog
+description: Reedeeng blog
+
+url: https://reedeeng.github.io/blog
+baseurl: /blog
+
+permalink: pretty
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+  
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+author:
+  name: Reedeeng
+  email: typeface@outlook.co.id
+  
+version: 1.0.0
+---

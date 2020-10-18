@@ -1,0 +1,26 @@
+// base
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: $font-family-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: $gray-800;
+  backgroung-color: #fff;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+a {
+  color: $blue;
+  
+  &:hover,
+  &:focus {
+    color: darken($blue, 10%);
+  }
+}
+

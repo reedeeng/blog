@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: page
 title: About
+description: The Airbnb design team
 ---
-
-<h1>{{ page.title }}</h1>
 
 Design influences everything we do at Airbnb. Behind the scenes it shapes our work, how we build new tools and the ways that we share and interact with our global community.
 

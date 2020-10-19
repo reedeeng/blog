@@ -8,7 +8,7 @@ layout: default
     {% if page.description %}
     <em>{{ page.description }}</em>
     {% endif %}
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time>
+    <p><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</time></p>
   </div>
   
   <div>

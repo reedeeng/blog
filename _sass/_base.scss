@@ -9,7 +9,7 @@ body {
   font-family: $font-family-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: $gray-900;
+  color: $gray-800;
   backgroung-color: #fff;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -22,12 +22,13 @@ a {
   &:hover,
   &:focus {
     color: darken($blue, 10%);
+    text-decoration: underline;
   }
 }
 
 //
 .container {
-  max-width: 35rem;
+  max-width: 40rem;
   padding-left: $spacer-2;
   padding-right: $spacer-2;
   margin-left: auto;

@@ -17,6 +17,7 @@ body {
 
 a {
   color: $blue;
+  text-decoration: none;
   
   &:hover,
   &:focus {
@@ -26,7 +27,7 @@ a {
 
 //
 .container {
-  max-width: 45rem;
+  max-width: 35rem;
   padding-left: $spacer-2;
   padding-right: $spacer-2;
   margin-left: auto;

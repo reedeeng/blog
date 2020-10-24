@@ -1,42 +1,37 @@
-
-
-// font-face
+// Webfonts
+//
+// Declaring font-face rules
 
 @font-face {
-	font-family: "TiemposText";
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot");
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot?#iefix") format("embedded-opentype"),
-	url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.woff") format("woff");
-	font-style: normal;
-	font-weight: 400;
+  font-family: "xcharter";
+  src: url("/blog/assets/xcharter-roman.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-	font-family: "TiemposText";
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.eot");
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.eot?#iefix") format("embedded-opentype"),
-	url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular-Italic.woff") format("woff");
-	font-style: italic;
-	font-weight: 400;
+  font-family: "xcharter";
+  src: url("blog/assets/xcharter-italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
-	font-family: "TiemposText";
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.eot");
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.eot?#iefix") format("embedded-opentype"),
-	url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold.woff") format("woff");
-	font-style: normal;
-	font-weight: 600;
+  font-family: "xcharter";
+  src: url("/assets/xcharter-bold.woff") format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-	font-family: "TiemposText";
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold-Italic.eot");
-	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold-Italic.eot?#iefix") format("embedded-opentype"),
-	url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Semibold-Italic.woff") format("woff");
-	font-style: italic;
-	font-weight: 600;
+  font-family: "xcharter";
+  src: url("assets/xcharter-bolditalic.woff") format("woff");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
 }
-
 	
 	

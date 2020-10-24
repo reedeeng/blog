@@ -13,9 +13,8 @@ jika harus aku menuliskan semua jejak-jejak kegelisahan kau yang tak rela mening
 
 maka aku tuliskan saja dua perihal sederhana yang barangkali paling segera akan aku dan kau lupakan:
 
-—piyama yang kau kenakan malam itu yang kau biarkan teronggok lesu di kaki tempat tidur. ketahuilah, piyama yang belum aku bawa ke tempat cuci dan masih berada di tempat itu, selalu bicara tentang kau yang amat berat menanggalkan tubuh kau dari pelukannya yang berpeluh malam itu
-
-—lampu tidur yang tetap bangun tetapi bermata rabun, yang cahayanya kau biarkan separuh hidup separuh redup. ketahuilah, mata lampu yang hingga kini masih bertahan hidup itu, melulu bicara kepada aku tentang alangkah baik kau tak mau meninggalkan bayangan tubuh lebih jelas di dingin tubuh dinding kamar
+* piyama yang kau kenakan malam itu yang kau biarkan teronggok lesu di kaki tempat tidur. ketahuilah, piyama yang belum aku bawa ke tempat cuci dan masih berada di tempat itu, selalu bicara tentang kau yang amat berat menanggalkan tubuh kau dari pelukannya yang berpeluh malam itu
+* lampu tidur yang tetap bangun tetapi bermata rabun, yang cahayanya kau biarkan separuh hidup separuh redup. ketahuilah, mata lampu yang hingga kini masih bertahan hidup itu, melulu bicara kepada aku tentang alangkah baik kau tak mau meninggalkan bayangan tubuh lebih jelas di dingin tubuh dinding kamar
 
 sementara perihal-perihal lain, aku yakin akan ada dan tak ingin mati, tambah tumbuh, di kepala aku atau di dada kau atau sebaliknya bahkan setelah kau pulang lalu pergi lagi berkali- kali buat membunuh mereka
 

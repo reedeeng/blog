@@ -89,10 +89,37 @@ ul,
 ol {
   margin-left: 0;
   margin-bottom: $spacer;
+  padding-left: 0;
 }
 
 hr {
+  margin-top: $spacer;
+  margin-bottom: $spacer;
   color: $gray-900;
+}
+
+table {
+  margin-bottom: $spacer;
+  width: 100%;
+  border: 0 solid $gray-900;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: .25rem .5rem;
+  border-color: inherit;
+  border-style: solid;
+  border-width: 0;
+  border-bottom-width: 1px;
+}
+
+th {
+  text-align: left;
+}
+
+thead th {
+  border-bottom-color: currentColor;
 }
 
 //

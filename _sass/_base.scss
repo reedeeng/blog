@@ -150,13 +150,12 @@ thead th {
 }
 
 .post-list {
-  margin-bottom: $spacer;
-  padding-left: 0;
+  display: block;
 }
 
 .post-list-item {
   padding-bottom: $spacer;
-  font-weight: normal;
+  font-size: normal;
 }
 
 

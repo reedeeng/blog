@@ -39,9 +39,9 @@ meh.
    3. section one
    3. section two
 * Appendix
-  * appendix A
-  * appendix B
-  * appendix C
+   * appendix A
+   * appendix B
+   * appendix C
 
 ---
 

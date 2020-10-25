@@ -30,9 +30,9 @@ meh.
 meh.
 
 1. Chapter one
-  1.1 Section one
-  1.2 Section two
-  1.3 Section three
+  1. Section one
+  1. Section two
+  1. Section three
 2. Chapter two
   2. section one
 3. Chapter three
@@ -42,12 +42,14 @@ meh.
   * appendix A
   * appendix B
   * appendix C
-  
+
+---
+
 1. First ordered list item
 2. Another item
   * Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-  1. Ordered sub-list
+   1. Ordered sub-list
 4. And another item.
 
    You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).

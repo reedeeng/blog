@@ -148,3 +148,14 @@ thead th {
   margin-bottom: $spacer-3;
   border-top: 1px solid $gray-300;
 }
+
+.post-list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.post-list-item {
+  padding-bottom: $spacer;
+}
+
+

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elemeny of typography
+title: Element of typography
 ---
 
 meh.

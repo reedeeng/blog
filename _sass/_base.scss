@@ -68,6 +68,15 @@ img {
   height: auto;
 }
 
+figure {
+  margin: 0;
+}
+
+blockquote {
+  margin-left: $spacer;
+  color: $gray-700;
+}
+
 //
 .container {
   max-width: 40rem;

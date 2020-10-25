@@ -30,18 +30,18 @@ meh.
 meh.
 
 1. Chapter one
-  1. Section one
-  1. Section two
-  1. Section three
+   1. Section one
+   1. Section two
+   1. Section three
 2. Chapter two
-  2. section one
+   2. section one
 3. Chapter three
-  3. section one
-  3. section two
+   3. section one
+   3. section two
 * Appendix
-  * appendix A
-  * appendix B
-  * appendix C
+   * appendix A
+   * appendix B
+   * appendix C
 
 ---
 

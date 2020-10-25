@@ -6,11 +6,11 @@ title: Home
 <div>
   <article class="post-list">
   {% for post in paginator.posts %}
-    <header class="post-list-item">
-      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    </header>
-    <footer>
+    <header>
       <time datetime="{{ post.date | date_to_xmlschema }}"><small>{{ post.date | date_to_long_string }}</small></time>
+    </header>
+    <footer class="post-list-item">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     </footer>
   {% endfor %}
   </article>

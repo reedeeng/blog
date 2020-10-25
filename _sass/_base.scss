@@ -75,10 +75,12 @@ figure {
 }
 
 blockquote {
-  margin-left: $spacer;
+  margin-left: $spacer-2;
   margin-right: 0;
   margin-bottom: $spacer;
-  color: $gray-700;
+  padding-top: $spacer;
+  padding-bottom: $spacer;
+  color: $gray-600;
 }
 
 cite {

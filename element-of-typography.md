@@ -30,9 +30,9 @@ meh.
 meh.
 
 1. Chapter one
-   1.1. Section one
-   1.2. Section two
-   1.3. Section three
+   1. Section one
+   1. Section two
+   1. Section three
 2. Chapter two
    2. section one
 3. Chapter three

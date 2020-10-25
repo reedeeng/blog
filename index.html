@@ -6,7 +6,10 @@ title: Home
 <div>
   <ul class="post-list">
   {% for post in paginator.posts %}
-    <li class="post-list-item"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li class="post-list-item">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date_to_xmlschema }}"><small>{{ post.date | date_to_long_string }}</small></time>
+    </li>
   {% endfor %}
   </ul>
 </div>

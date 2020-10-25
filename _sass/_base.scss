@@ -85,6 +85,16 @@ cite {
   font-style: normal;
 }
 
+ul,
+ol {
+  margin-left: 0;
+  margin-bottom: $spacer;
+}
+
+hr {
+  color: $gray-900;
+}
+
 //
 .container {
   max-width: 40rem;
